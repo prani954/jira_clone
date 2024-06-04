@@ -38,27 +38,7 @@ Building a business around a new project management tool involves several challe
 2. *Market Penetration*: Competing with established players like Jira, Trello, and Asana will require strategic marketing and a compelling value proposition.
 3. *User Acquisition*: Attracting and retaining users in a competitive market demands continuous improvement, excellent customer support, and competitive pricing.
 4. *Customization and Integration*: Ensuring our platform integrates seamlessly with other tools and offers extensive customization options can be technically challenging but is crucial for user adoption.
-
-## Conceptual Application
-Our Jira clone is designed to serve a diverse range of users:
-
-- **Software Development Teams**: Track issues, manage sprints, and collaborate on code.
-- **Product Management Teams**: Plan product roadmaps, prioritize features, and gather user feedback.
-- **IT Operations Teams**: Monitor system performance, track incidents, and manage infrastructure projects.
-- **Project Management Teams**: Oversee project timelines, allocate resources, and track milestones.
-- **Freelancers and Small Businesses**: Manage client projects, collaborate with team members, and streamline workflows.
-
-## Real-World Demonstrations
-To demonstrate the real-world application of our Jira clone, we will:
-
-1. **Pilot Programs**: Launch pilot programs with select teams across various industries to gather feedback and showcase success stories.
-2. **Case Studies**: Develop detailed case studies highlighting how different teams have successfully implemented our tool to improve productivity and project outcomes.
-3. **Live Demonstrations**: Conduct live demonstrations and webinars to showcase the platform’s features, usability, and customization options.
-4. **User Testimonials**: Collect and publish testimonials from early adopters to build credibility and attract new users.
-5. **Industry Partnerships**: Partner with industry-specific organizations to tailor our tool to their unique needs and gain industry-specific insights.
-
-By focusing on these areas, we aim to establish our Jira clone as a competitive and attractive option in the project management software market.
-
+ 
 ## Features
 
 - Proven, scalable, and easy to understand project structure
@@ -68,6 +48,16 @@ By focusing on these areas, we aim to establish our Jira clone as a competitive 
 - Custom webpack setup, without create-react-app or similar
 - Client written in Babel powered JavaScript
 - API written in TypeScript and using TypeORM
+
+## Conceptual Application
+Our Jira clone is designed to serve a diverse range of users:
+
+- **Software Development Teams**: Track issues, manage sprints, and collaborate on code.
+- **Product Management Teams**: Plan product roadmaps, prioritize features, and gather user feedback.
+- **IT Operations Teams**: Monitor system performance, track incidents, and manage infrastructure projects.
+- **Project Management Teams**: Oversee project timelines, allocate resources, and track milestones.
+- **Freelancers and Small Businesses**: Manage client projects, collaborate with team members, and streamline workflows.
+ 
 
 ## Setting up development environment 🛠
 
