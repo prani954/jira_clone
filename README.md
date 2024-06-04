@@ -29,15 +29,6 @@ The current market for project management tools is saturated with options like J
 ### Market Size
 
 The project management software market is vast and growing, valued at approximately $4 billion in 2020 and projected to reach $10.67 billion by 2025. This growth is driven by the increasing adoption of remote work, the need for collaborative tools, and the rise of project-based work across various industries. Our target market includes software development teams, product management teams, IT operations teams, project management teams, freelancers, and small businesses. This broad target audience ensures a significant market size and ample growth opportunities.
-
-### Difficulty in Building the Business
-
-Building a business around a new project management tool involves several challenges:
-
-1. *Development Complexity*: Creating a feature-rich, user-friendly, and scalable platform requires significant technical expertise and resources.
-2. *Market Penetration*: Competing with established players like Jira, Trello, and Asana will require strategic marketing and a compelling value proposition.
-3. *User Acquisition*: Attracting and retaining users in a competitive market demands continuous improvement, excellent customer support, and competitive pricing.
-4. *Customization and Integration*: Ensuring our platform integrates seamlessly with other tools and offers extensive customization options can be technically challenging but is crucial for user adoption.
  
 ## Features
 
@@ -58,7 +49,15 @@ Our Jira clone is designed to serve a diverse range of users:
 - **Project Management Teams**: Oversee project timelines, allocate resources, and track milestones.
 - **Freelancers and Small Businesses**: Manage client projects, collaborate with team members, and streamline workflows.
  
+## Difficulty in Building the Business
 
+Building a business around a new project management tool involves several challenges:
+
+1. *Development Complexity*: Creating a feature-rich, user-friendly, and scalable platform requires significant technical expertise and resources.
+2. *Market Penetration*: Competing with established players like Jira, Trello, and Asana will require strategic marketing and a compelling value proposition.
+3. *User Acquisition*: Attracting and retaining users in a competitive market demands continuous improvement, excellent customer support, and competitive pricing.
+4. *Customization and Integration*: Ensuring our platform integrates seamlessly with other tools and offers extensive customization options can be technically challenging but is crucial for user adoption.
+   
 ## Setting up development environment 🛠
 
 - Install [postgreSQL](https://www.postgresql.org/) if you don't have it already and create a database named `jira_development`.
