@@ -39,7 +39,7 @@ Building a business around a new project management tool involves several challe
 3. *User Acquisition*: Attracting and retaining users in a competitive market demands continuous improvement, excellent customer support, and competitive pricing.
 4. *Customization and Integration*: Ensuring our platform integrates seamlessly with other tools and offers extensive customization options can be technically challenging but is crucial for user adoption.
 
-### Conceptual Application
+## Conceptual Application
 Our Jira clone is designed to serve a diverse range of users:
 
 - **Software Development Teams**: Track issues, manage sprints, and collaborate on code.
@@ -48,7 +48,7 @@ Our Jira clone is designed to serve a diverse range of users:
 - **Project Management Teams**: Oversee project timelines, allocate resources, and track milestones.
 - **Freelancers and Small Businesses**: Manage client projects, collaborate with team members, and streamline workflows.
 
-### Real-World Demonstrations
+## Real-World Demonstrations
 To demonstrate the real-world application of our Jira clone, we will:
 
 1. **Pilot Programs**: Launch pilot programs with select teams across various industries to gather feedback and showcase success stories.
